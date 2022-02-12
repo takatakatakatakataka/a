@@ -338,7 +338,7 @@ header h1{
 /* ----------------------- */
 
 .contact .inner{
-  background-image: url(./woman.jpg);
+  background-image: url(woman.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
