@@ -112,7 +112,7 @@ p{
 .header{
 	height: 90vh;
 	width: 80%;
-	background-image: url(../img/mountains.jpg);
+	background-image: url(./mountains.jpg);
 	background-size: cover; 
 
  }
@@ -338,7 +338,7 @@ header h1{
 /* ----------------------- */
 
 .contact .inner{
-  background-image: url(../img/woman.jpg);
+  background-image: url(./woman.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -360,7 +360,7 @@ header h1{
 }
 
 .vision .inner{
-  background-image: url(../img/architecture2.jpg);
+  background-image: url(./architecture2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
